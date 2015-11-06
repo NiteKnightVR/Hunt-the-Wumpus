@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="d:\Unity\2D_Hunt_The_Wumpus\Assets\Player.cs">
+    <Files>
+      <File FileName="Assets\Map.cs" Line="102" Column="3" />
+      <File FileName="d:\Unity\2D_Hunt_The_Wumpus\Assets\Bat.cs" Line="6" Column="1" />
+      <File FileName="d:\Unity\2D_Hunt_The_Wumpus\Assets\Player.cs" Line="84" Column="1" />
+      <File FileName="d:\Unity\2D_Hunt_The_Wumpus\Assets\Program.cs" Line="210" Column="1" />
+      <File FileName="d:\Unity\2D_Hunt_The_Wumpus\Assets\Wumpus.cs" Line="43" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
